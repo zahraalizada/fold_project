@@ -29,12 +29,6 @@ button {
     font-family: 'Montserrat', sans-serif;
 }
 
-.box-layout {
-    max-width: 1540px;
-    margin: auto;
-    background-color: cyan;
-}
-
 .box-container {
     max-width: 1070px;
     margin: auto;
